@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931082343563",
+    "project_id": "fir-datastore-93af7",
+    "storage_bucket": "fir-datastore-93af7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931082343563:android:56525c0bcd1adba4f7308e",
+        "android_client_info": {
+          "package_name": "com.project.manishprajapat.firebase_excercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931082343563-3v7hva1e5fnnfbqh4a8cajphffcvd5i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExhaDmPaGBMhquhJmoeeOtF-RJ6jPnZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931082343563-3v7hva1e5fnnfbqh4a8cajphffcvd5i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
